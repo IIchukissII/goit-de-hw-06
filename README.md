@@ -84,8 +84,6 @@ Index: []
 Empty DataFrame
 Columns: [key, value]
 Index: []
-```
-Columns: [key, value]
-Index: []
 2024-11-25 20:51:09,002 - Received command c on object id p0
 2024-11-25 20:51:09,011 - Processing Batch ID: 14
+```
