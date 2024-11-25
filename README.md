@@ -1,3 +1,6 @@
+## Result
+![Result](./img/result.PNG)
+
 ```plaintext
 2024-11-25 20:26:47,664 - Starting the Kafka streaming application.
 2024-11-25 20:27:26,052 - Callback Server Starting
