@@ -11,6 +11,8 @@ This file contains all the Kafka configuration details.
 This script simulates sensors generating temperature and humidity data. The data is sent to the Kafka topic:
 - **Topic Format**: `building_sensors_{name}`
 - **Data Example**:
+
+
 | Key                                   | Value                                                                                                                                                                                                                                          |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 01add1ae-2d47-4b45-b0ad-1414c9672404 | {"window":{"start":"2024-11-24T13:45:30.000+01:00","end":"2024-11-24T13:46:30.000+01:00"},"t_avg":33.55555555555556,"h_avg":36.888888888888886,"code":"101","message":"It's too dry","timestamp":"2024-11-25 20:27:25.369466"} |
