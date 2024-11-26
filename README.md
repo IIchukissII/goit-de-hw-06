@@ -10,7 +10,7 @@ This file contains all the Kafka configuration details.
 ### 2. **`sensor_producer.py`**: Sensor Data Producer
 This script simulates sensors generating temperature and humidity data. The data is sent to the Kafka topic:
 - **Topic reading**: `building_sensors_{name}`
-- **Topic sending**: `avg_measurement_{name}`
+- **Topic sending**: `avg_alerts_{name}`
 - **Data Example**:
 
 
